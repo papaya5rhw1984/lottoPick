@@ -19,8 +19,8 @@ android {
         applicationId = "io.github.papaya5rhw1984.lottopick"
         minSdk = 24
         targetSdk = 34
-        versionCode = 5
-        versionName = "1.2.1"
+        versionCode = 6
+        versionName = "1.2.2"
     }
 
     signingConfigs {
